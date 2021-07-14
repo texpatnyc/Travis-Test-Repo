@@ -11,5 +11,5 @@ figlet.text(
       return;
     }
     console.log(data);
-  }
+  },
 );
